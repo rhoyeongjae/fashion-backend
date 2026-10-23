@@ -7,7 +7,7 @@
 ## Tech Stack & Environment
 * **Language & Runtime:** JavaScript (Node.js)
 * **Database:** MySQL
-* 
+  
 ---
 
 ## Key Features (백엔드 주요 기능)
