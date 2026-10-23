@@ -12,6 +12,8 @@
 
 ## Key Features (백엔드 주요 기능)
 
+---
+
 ### 1. Database & Schema Design
 * 의상 정보, 유저 랭킹, 그리고 코디 데이터 저장을 위한 효율적인 **MySQL 데이터베이스 구조 설계 및 연동**
 
